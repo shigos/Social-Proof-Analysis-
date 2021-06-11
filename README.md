@@ -6,7 +6,8 @@ Analyzing Product Reviews Left on Websites
 for positive  reviews 
 3. Are there certain brands more favored and disliked based on
 4. Do certain product types garner more critical reviews?
-5. 
+5. What are there any interesting points worth mentioning in the data
+
 
 
 ## Data Description 
